@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose 
-<div style="display: flex">
+<div>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="75">
