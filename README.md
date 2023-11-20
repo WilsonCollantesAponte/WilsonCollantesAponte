@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 
 *	Deploy/Host: Vercel, Railway, Render
 <div style="display: flex; justify-content: space-between;">
-<img src="https://nextjs.org/_next/image?url=https:%2F%2Fwww.datocms-assets.com%2F35255%2F1665957463-sponsor-logo-vercel.png&w=750&q=75" alt="Vercel" width="150">
-<img src="https://railway.app/brand/logotype-light.png" alt="Railway" width="230">
+<img src="https://nextjs.org/_next/image?url=https:%2F%2Fwww.datocms-assets.com%2F35255%2F1665957463-sponsor-logo-vercel.png&w=750&q=75" alt="Vercel" width="130">
+<img src="https://railway.app/brand/logotype-light.png" alt="Railway" width="250">
 <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" alt="Render" width="150">
 </div>
 
