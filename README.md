@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose, 
+*	Frameworks: NextJs, Astro,
+*	Database: PostgreSQL, MySQL, Microsoft SQL Server,
+*	Agile: GitHub, Git, Scrum, Trello, Figma, Slack
+*	Deploy/Host: Vercel, Railway, Render
+*	IDE: Visual Studio Code, Android Studio.
+
 <div style="display: flex; justify-content: space-between;">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="100">
