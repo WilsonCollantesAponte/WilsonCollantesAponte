@@ -12,7 +12,6 @@ Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, fr
 **Si no se algo lo aprendo, aprendo bastante rápido, me dedico al 100 en mis objetivos, muy sociable, y empático con mi entorno a nivel personal y en el trabajo. 💪💪💪💪**
 
 - ### Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose 
-<div>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="75">
@@ -67,10 +66,4 @@ Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, fr
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="80">
-</div>
 
-<div style="display: flex; justify-content: space-between;">
-<!-- <img src="https://th.bing.com/th/id/OIP._Q4FjQNxbzA8K2drm_KbbQHaE8?rs=1&pid=ImgDetMain" alt="Mercado-Pago" width="125"> -->
-<!-- <img src="https://th.bing.com/th/id/OIP.Z8yoqoSoOywB-50VxGMTigHaGU?rs=1&pid=ImgDetMain" alt="Microsoft-SQL-Server" width="115"> -->
-
-</div>
