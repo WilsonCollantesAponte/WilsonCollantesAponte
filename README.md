@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-# Full Stack Developer 😀👋🖖
+# Full Stack Developer 😀🍎👋🖖
 ## Énfasis en crear servidores estables e interfaces intuitivas para los usuarios. ✨✨
 Experiencia siendo líder de proyectos en equipo, creado proyectos desde 0, arquitectura enfocada en microservicios, arquitectura de datos relacionales (SQL). 
 Preparado con NodeJs, React, Redux y diferentes frameworks como NextJs y Atro, SQL y muchas otras tecnologías y librerías de relevancia.
