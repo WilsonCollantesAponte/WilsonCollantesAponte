@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 Experiencia siendo líder de proyectos en equipo, creado proyectos desde 0, arquitectura enfocada en microservicios, arquitectura de datos relacionales (SQL). 
 Preparado con NodeJs, React, Redux y diferentes frameworks como NextJs y Atro, SQL y muchas otras tecnologías y librerías de relevancia.
 Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks. 
-**Si no se algo lo aprendo, aprendo bastante rápido, me dedico al 100 en mis objetivos, muy sociable, y empático con mi entorno a nivel personal y en el trabajo. 💪**
+**Si no se algo lo aprendo, aprendo bastante rápido, me dedico al 100 en mis objetivos, muy sociable, y empático con mi entorno a nivel personal y en el trabajo. 💪💪💪💪**
 
 - Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose 
 <div>
