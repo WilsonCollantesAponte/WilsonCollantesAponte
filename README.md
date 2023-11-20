@@ -36,18 +36,20 @@ Here are some ideas to get you started:
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="100">  
 </div>
 <!--  -->
+
+- Frameworks: NextJs, Astro,
 <div style="display: flex; justify-content: space-between;">
 <img src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="Next.js" width="100">
 <img src="https://d4.alternativeto.net/j2Qe4O0p2F7OmLkdOlu6o3xcNg1_OGI3lOYJ6CXXzFs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9hc3Ryby13ZWItZnJhbWV3b3JrXzIwOTAyOC5wbmc.png" alt="Astro" width="100">
 </div>
-- Frameworks: NextJs, Astro,
 
+*	Database: PostgreSQL, MySQL, Microsoft SQL Server
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="100">
 <img src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="185">
 </div>
-*	Database: PostgreSQL, MySQL, Microsoft SQL Server,
 
+*	Agile: GitHub, Git, Scrum, Trello, Figma, Slack
 <div style="display: flex; justify-content: space-between;">
 <img src="https://pngimg.com/uploads/github/github_PNG67.png" alt="GitHub" width="100">
 <img src="https://devantler.gallerycdn.vsassets.io/extensions/devantler/git-extension-pack-new/1.0.2/1661979762699/Microsoft.VisualStudio.Services.Icons.Default" alt="Git" width="100">
@@ -56,20 +58,19 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="70">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="100">
 </div>
-*	Agile: GitHub, Git, Scrum, Trello, Figma, Slack
 
+*	Deploy/Host: Vercel, Railway, Render
 <div style="display: flex; justify-content: space-between;">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3r02hPzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2tqlohxn9ji79m706w5j.png" alt="Vercel" width="200">
 <img src="https://railway.app/brand/logotype-light.png" alt="Railway" width="280">
 <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" alt="Render" width="150">
 </div>
-*	Deploy/Host: Vercel, Railway, Render
 
+*	IDE: Visual Studio Code, Android Studio.
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="115">
 </div>
-*	IDE: Visual Studio Code, Android Studio.
 
 <div style="display: flex; justify-content: space-between;">
 <!-- <img src="https://th.bing.com/th/id/OIP._Q4FjQNxbzA8K2drm_KbbQHaE8?rs=1&pid=ImgDetMain" alt="Mercado-Pago" width="125"> -->
