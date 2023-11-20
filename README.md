@@ -34,7 +34,7 @@ Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, fr
 </div>
 <!--  -->
 
-- Frameworks: NextJs, Astro,
+###- Frameworks: NextJs, Astro,
 <div style="display: flex; justify-content: space-between;">
 <img src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="Next.js" width="75">
 <img src="https://d4.alternativeto.net/j2Qe4O0p2F7OmLkdOlu6o3xcNg1_OGI3lOYJ6CXXzFs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9hc3Ryby13ZWItZnJhbWV3b3JrXzIwOTAyOC5wbmc.png" alt="Astro" width="75">
