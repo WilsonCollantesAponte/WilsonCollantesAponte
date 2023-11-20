@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="75">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="Node" width="75">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" alt="ExpressJS" width="75">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" width="85">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="85">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" width="95">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="95">
 <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="75">
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="75">
   
