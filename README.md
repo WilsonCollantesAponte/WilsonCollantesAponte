@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="Jetpack compose" width="95">
 
 <img src="https://miro.medium.com/v2/resize:fit:1024/0*VLLYS8MznQJXq-1_.jpg" alt="Prisma" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Xwt0qEY5ch-UHG-1CMGakP_GzTKOfOpvJhfyiR5Zwk3663ZOeLA6mGSh6482il_BQfo&usqp=CAU" alt="Prisma" width="100">
+
 <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" width="75">
 
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="75">  
