@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 *	Deploy/Host: Vercel, Railway, Render
 <div style="display: flex; justify-content: space-between;">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3r02hPzs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2tqlohxn9ji79m706w5j.png" alt="Vercel" width="200">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MGRudDNb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emsbo1jy8jh91vvohwrj.jpeg" alt="Vercel" width="200">
 <img src="https://railway.app/brand/logotype-light.png" alt="Railway" width="230">
 <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" alt="Render" width="150">
 </div>
