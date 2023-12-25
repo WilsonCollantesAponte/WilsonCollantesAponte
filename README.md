@@ -32,7 +32,7 @@ Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, fr
 <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" width="75">
 
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="75">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.IO" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="Socket.IO" width="85">
 </div>
 <!--  -->
 
