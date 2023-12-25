@@ -12,7 +12,7 @@ Preparado con NodeJs, React, Redux y diferentes frameworks como NextJs y Atro, S
 Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks. 
 **Si no se algo lo aprendo, aprendo bastante rápido, me dedico al 100 en mis objetivos, muy sociable, y empático con mi entorno a nivel personal y en el trabajo. 💪💪💪💪**
 
-- ### Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose
+- ### Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose, Socket.IO
 <div style="display: flex; justify-content: space-between;">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="75">
@@ -31,7 +31,8 @@ Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, fr
 <img src="https://miro.medium.com/v2/resize:fit:1024/0*VLLYS8MznQJXq-1_.jpg" alt="Prisma" width="100">
 <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" width="75">
 
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="75">  
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO" width="75">
 </div>
 <!--  -->
 
