@@ -19,6 +19,7 @@ Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, fr
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="75">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="Node" width="75">
+<img src="https://res-console.cloudinary.com/dputhhzyb/thumbnails/v1/image/upload/v1699292780/c2FtcGxlcy9jbG91ZGluYXJ5LWxvZ28tdmVjdG9y/preview" alt="Node" width="75">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18v7qjb95jfqfBueH0PMFkla_3cPQQORDPL_pkACa7Z1IpqKY-8fkvEv75YiV5cwwRXE&usqp=CAU" alt="ExpressJS" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="Tailwindcss" width="95">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="95">
