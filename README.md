@@ -1,4 +1,4 @@
-
+expo
 <!--
 **WilsonCollantesAponte/WilsonCollantesAponte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <img src="https://www.wpgraphql.com/_next/image?url=%2Flogos%2Flogo-nextjs.png&w=384&q=75" alt="Next.js" width="75">
 <img src="https://d4.alternativeto.net/j2Qe4O0p2F7OmLkdOlu6o3xcNg1_OGI3lOYJ6CXXzFs/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9hc3Ryby13ZWItZnJhbWV3b3JrXzIwOTAyOC5wbmc.png" alt="Astro" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="75">
-<img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" fill="white" alt="Expo" width="75">
+<img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" fill="white" alt="Expo" width="65">
 </div>
 
 * ###	Database: PostgreSQL, MySQL, Microsoft SQL Server
