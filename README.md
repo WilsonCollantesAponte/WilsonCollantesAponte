@@ -5,12 +5,9 @@
 Here are some ideas to get you started:
 -->
 # Full Stack Developer 😀🍎👋🖖
-## Énfasis en crear servidores estables e interfaces intuitivas para los usuarios. ✨✨
-Experiencia siendo líder de proyectos en equipo, creado proyectos desde 0, arquitectura enfocada en microservicios, arquitectura de datos relacionales (SQL). <br/>
-Experiencia freelance 1 año.<br/>
-Preparado con NodeJs, React, Redux y diferentes frameworks como NextJs y Atro, SQL y muchas otras tecnologías y librerías de relevancia.
-Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks. 
-**Si no se algo lo aprendo, aprendo bastante rápido, me dedico al 100 en mis objetivos, muy sociable, y empático con mi entorno a nivel personal y en el trabajo. 💪💪💪💪**
+## Creando servidores estables e interfaces intuitivas para los usuarios. ✨✨
+Iniciando proyectos desde 0, arquitectura enfocada en microservicios, MVC, arquitectura de datos relacionales (SQL). 
+Experiencia freelance 1 año.
 
 - ### Tech: HTML, CSS,TypeScript, JavaScript, Kotlin, React, React Native, NodeJS, Cloudinary, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose, Socket.IO
 <div style="display: flex; justify-content: space-between;">
