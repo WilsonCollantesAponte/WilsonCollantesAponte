@@ -12,7 +12,7 @@ Preparado con NodeJs, React, Redux y diferentes frameworks como NextJs y Atro, S
 Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks. 
 **Si no se algo lo aprendo, aprendo bastante rápido, me dedico al 100 en mis objetivos, muy sociable, y empático con mi entorno a nivel personal y en el trabajo. 💪💪💪💪**
 
-- ### Tech: HTML, CSS, JavaScript, Kotlin, React, NodeJS, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose, Socket.IO
+- ### Tech: HTML, CSS,TypeScript, JavaScript, Kotlin, React, React Native, NodeJS, Cloudinary, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose, Socket.IO
 <div style="display: flex; justify-content: space-between;">
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS" width="75">
