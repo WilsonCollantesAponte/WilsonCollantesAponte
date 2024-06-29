@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div style="display: flex; justify-content: space-between;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="75">
 <img src="https://hoplasoftware.com/wp-content/uploads/2021/07/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="140">
-<img src="https://logodix.com/logo/481335.png" alt="Microsoft SQL Server" width="95">
+<img src="https://logodix.com/logo/481335.png" alt="Microsoft SQL Server" width="85">
 </div>
 
 * ###	Agile: GitHub, Git, Scrum, Trello, Figma, Slack
