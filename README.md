@@ -3,10 +3,11 @@
 
 Here are some ideas to get you started:
 -->
-# Full Stack Developer 😀🍎👋🖖
-## Creando servidores estables e interfaces intuitivas para los usuarios. ✨✨
-### Iniciando proyectos desde 0, arquitectura enfocada en microservicios, MVC, arquitectura de datos relacionales (SQL). 
-### Experiencia freelance 1 año.
+# Full Stack Developer 🍎👋🖖
+## Creando servidores estables e interfaces intuitivas para los usuarios.
+### Iniciando proyectos desde 0, arquitectura enfocada en microservicios, MVC, arquitectura de datos relacionales (SQL) y no relacionales (NO SQL), uso de gran variedad de frameworks.
+###Experiencia freelance 2 años.
+
 
 - ### Tech: HTML, CSS,TypeScript, JavaScript, Kotlin, React, React Native, NodeJS, Cloudinary, Express, Prisma, Sequelize, Tailwind, Bootstrap, NextAuth, Redux, Postman, Jetpack Compose, Socket.IO
 <div style="display: flex; justify-content: space-between;">
