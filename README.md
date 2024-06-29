@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 * ###	IDE: Visual Studio Code, Android Studio.
 <div style="display: flex; justify-content: space-between;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual-Studio-Code" width="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual-Studio-Code" width="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" alt="Android-Studio" width="80">
 
